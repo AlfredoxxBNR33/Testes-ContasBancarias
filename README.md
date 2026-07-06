@@ -1,7 +1,12 @@
 # Testes-ContasBancarias
 
+## Autores
+João Alfredo (Dono do perfil)
+João Fernando
+Lucas Rafael
+
 ## Sobre o Projeto
-Este é um projeto acadêmico desenvolvido em Java para a disciplina de testes de software. O foco principal do repositório é a validação de regras de negócio de um sistema bancário através de testes unitários automatizados, utilizando o framework JUnit.
+Este é um projeto acadêmico desenvolvido em Java para a disciplina de testes de software ministrada pelo professor Eduardo Garcia Wanderley (IFPE Campus Garanhuns). O foco principal do repositório é a validação de regras de negócio de um sistema bancário através de testes unitários automatizados, utilizando o framework JUnit.
 
 ## Estrutura do Sistema
 O sistema foi arquitetado utilizando os princípios da orientação a objetos e está dividido nos seguintes pacotes centrais:
